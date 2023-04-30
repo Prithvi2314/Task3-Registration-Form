@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html{
+    background-color:darkslategray ;
+
+    background: radial-gradient(rgba(179,255,255,0.5), rgba(225,225,225,0.5),rgba(0,0,0,0.3));
+    text-align: center;
+}
+
+#nameDiv{
+    margin-top:50px;
+
+}
+
+.input{
+    font-size: 25px;
+    color:#004d00;
+    font-weight:700;
+    font-family: cursive;
+    margin:20px;
+
+}
+
+#entry{
+    width:150px;
+    height: 40px;
+    font-size: 23px;
+    font-family: "Comic San MS", cursive, sans-serif;
+    background-color: peru;
+    color:whitesmoke;
+    box-sizing:0 2px 2px 0 rgba(0,0,0,0.5) ;
+    margin-top:10px;
+
+}
+table{
+    width:50%;
+    margin:50px auto;
+   float:center;
+    text-align:center;
+    background: #333;
+    color: #fff;
+}
+table, th,td{
+    border:2px solid white;
+    padding:10px;
+}
